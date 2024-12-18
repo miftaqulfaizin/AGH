@@ -1,43 +1,20 @@
-@@||d.applovin.com^$important
-@@||rt.applovin.com^$important
-@@||ms.applovin.com^$important
-@@||rt.applvn.com^$important
-@@||a.applvn.com^$important
-@@||d.applvn.com^$important
-@@||a.applovin.com^$important
-@@||prod-mediate-events.applovin.com^$important
-@@||a4.applovin.com^$important
-@@||prod-a4.applovin.com^$important
-@@||ms.applvn.com^$important
-@@||ms4.applovin.com^$important
-@@||ms4.applvn.com^$important
-@@||aax.amazon-adsystem.com^$important
-@@||aax-fe-sin.amazon-adsystem.com^$important
-@@||js.ad-score.com^$important
-@@||view.adjust.com^$important
-@@||cdn4image.com^$important
-@@||appsflyersdk.com^$important
-@@||appsflyer.com^$important
-@@||googleads.g.doubleclick.net^$important
-@@||www.googleadservices.com^$important
-@@||sgsnssdk.com^$important
-@@||byteoversea.com^$important
-@@||ssl.google-analytics.com^$important
-@@||isnssdk.com^$important
-@@||o-sdk.mediation.unity3d.com^$important
-@@||static.doubleclick.net^$important
-@@||ade.googlesyndication.com^$important
-@@||pagead2.googlesyndication.com^$important
-@@||tpc.googlesyndication.com^$important
-@@||ad.doubleclick.net^$important
-@@||td.doubleclick.net^$important
-@@||stats.g.doubleclick.net^$important
-@@||rtlog22-normal-useast1a.tiktokv.com^$important
-@@||mon-va.tiktokv.com^$important
-@@||rtlog16-normal-useast1a.tiktokv.com^$important
-@@||httpdns-push.heytapmobile.com^$important
-@@||ubt.tracking.shopee.co.id^$important
-@@||gvt2.com^$important
-@@||gvt3.com^$important
-@@||unity3d.com^$important
-@@||google-analytics.com^$important
+# Win Update
+0.0.0.0 slscr.update.microsoft.com
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 sls.update.microsoft.com
+0.0.0.0 download.windowsupdate.com
+||download.windowsupdate.com^
+# Malware/phising
+0.0.0.0 tr-asia.adsmoloco.com
+0.0.0.0 js.wpadmngr.com
+0.0.0.0 sr7pv7n5x.com
+0.0.0.0 www.cpmrevenuegate.com
+0.0.0.0 s.pixsrvcs.com
+0.0.0.0 img.adtiming.com
+0.0.0.0 ocisgp.adtiming.com
+0.0.0.0 m.adtiming.com
+0.0.0.0 s.tpcserve.com
+0.0.0.0 cdntechone.com
+0.0.0.0 encurtador.dev
+0.0.0.0 pl23297551.highcpmgate.com
+0.0.0.0 unjustsubmerge.com
