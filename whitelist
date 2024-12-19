@@ -1,6 +1,7 @@
 #ALLOW
 @@||httpdns-push.heytapmobile.com^
 @@||dns.apple.com^
+@@||apple-dns.net^
 @@||doh.dns.apple.com.v.aaplimg.com^
 @@||icloud.com^
 @@||apple-relay.fastly-edge.com^
