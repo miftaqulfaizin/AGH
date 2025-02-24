@@ -62,11 +62,6 @@
 @@||fonts.gstatic.com^$important
 @@||0.client-channel.google.com^$important # In order for users on your network to access Google Drive and Google Docs editors this domain must be whitelisted - https://support.google.com/a/answer/2589954?hl=e
 @@||1drv.com^$important # It is actually a legitimate Microsoft owned domain and used as a short link for OneDrive documents
-@@||2.android.pool.ntp.org^$important # This domain is a part of The pool.ntp.org project which is a big virtual cluster of timeservers providing reliable time. This domain is used in Android device
-@@||akamaihd.net^$important # This domain is owned by Akamai Technologies which is a is a global content delivery network (CDN)
-@@||akamaitechnologies.com^$important # This domain is owned by Akamai Technologies which is a is a global content delivery network (CDN)
-@@||akamaized.net^$important # This domain is owned by Akamai Technologies which is a is a global content delivery network (CDN)
-@@||amazonaws.com^$important # Amazon Web Services (AWS) is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs. This domain is used to serve files and other static resources which are hosted on Amazon AW
 @@||android.clients.google.com^$important # Google Play Store and few devices (especially Android One devices) depends on this domain for system updates
 @@||api.ipify.org^$important # It is used to get your public IP address programmatically. ipify is completely opensource
 @@||app-api.ted.com^$important # Used by ted.com streams
