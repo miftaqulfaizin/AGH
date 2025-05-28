@@ -1,3 +1,6 @@
+#block
+||ether-pack-sg.pangle.io^
+||ssdk-sg.pangle.io^
 #ALLOW
 @@||httpdns-push.heytapmobile.com^
 @@||httpdns.push.oppomobile.com^
