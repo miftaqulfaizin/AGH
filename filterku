@@ -1,0 +1,366 @@
+# Win Update
+0.0.0.0 slscr.update.microsoft.com
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 sls.update.microsoft.com
+0.0.0.0 download.windowsupdate.com
+||download.windowsupdate.com^
+#Mobile store
+||store*.nearme.com^
+||store*.nearme.com.cn^
+||h*.market.xiaomi.com^
+||i*.market.xiaomi.com^
+||store*.heytapdownload.com^
+||heytapdownload.com^
+||asia-file-appstore.vivoglobal.com^
+||asia-file-appstoreawdl.vivoglobal.com^
+||asai-file-apkcdn*.vivoglobal.com^
+||cdn-icon.palmplaystore.com^
+||cdn-ps.palmplaystore.com^
+||cdn-client-diff.palmplaystore.com^
+||download-api.palmplaystore.com^
+#Mobile sysupdate
+||asia-sysupawdl.vivoglobal.com^
+||asia-sysupgrade-api.vivoglobal.com^
+||asia-sysupakdl.vivoglobal.com^
+||ultimateota.d.miui.com^
+||update.intl.miui.com^
+||update.miui.com^
+||upd.samsung.com^
+||component-ota-sg.allawnos.com^
+||ota-recruit-sg.allawnos.com^
+||h5fsf.coloros.com^
+||ifota.coloros.com^
+||ifota.realmemobile.com^
+#Meris botnet
+||eeongous.com^
+||leappoach.info^
+||mythtime.xyz^
+||bankingbloatedcaptive.com^
+||abluvdiscr.com^
+||solarcyclonesky.com^
+||oqrvraab.com^
+||slorpeyes.top^
+||iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com^
+||eakalra.ru^
+0.0.0.0 1abcnews.xyz
+0.0.0.0 1awesome.net
+0.0.0.0 7standby.com
+0.0.0.0 audiomain.website
+0.0.0.0 bestony.club
+0.0.0.0 ciskotik.com
+0.0.0.0 cloudsond.me
+0.0.0.0 dartspeak.xyz
+0.0.0.0 fanmusic.xyz
+0.0.0.0 gamedate.xyz
+0.0.0.0 globalmoby.xyz
+0.0.0.0 hitsmoby.com
+0.0.0.0 massgames.space
+0.0.0.0 mobstore.xyz
+0.0.0.0 motinkon.com
+0.0.0.0 my1story.xyz
+0.0.0.0 myfrance.xyz
+0.0.0.0 phonemus.net
+0.0.0.0 portgame.website
+0.0.0.0 senourth.com
+0.0.0.0 sitestory.xyz
+0.0.0.0 spacewb.tech
+0.0.0.0 specialword.xyz
+0.0.0.0 spgames.site
+0.0.0.0 strtbiz.site
+0.0.0.0 takebad1.com
+0.0.0.0 tryphptoday.com
+0.0.0.0 wchampmuse.pw
+0.0.0.0 weirdgames.info
+0.0.0.0 widechanges.best
+0.0.0.0 zancetom.com
+0.0.0.0 bestmade.xyz
+0.0.0.0 gamesone.xyz
+0.0.0.0 mobigifs.xyz
+0.0.0.0 myphotos.xyz
+0.0.0.0 onlinegt.xyz
+0.0.0.0 picsgifs.xyz
+# Malware/phising
+||liadm.com^
+||rezync.com^
+||itotolink.net^
+||totolink^
+||xggd&f|x&gzo.itotolink.net^
+#||histats.com^
+0.0.0.0 ads.indosatooredoo.com
+0.0.0.0 ads.telkomsel.com
+0.0.0.0 myads.telkomsel.com
+0.0.0.0 tr-asia.adsmoloco.com
+0.0.0.0 js.wpadmngr.com
+0.0.0.0 sr7pv7n5x.com
+0.0.0.0 www.cpmrevenuegate.com
+0.0.0.0 s.pixsrvcs.com
+0.0.0.0 img.adtiming.com
+0.0.0.0 ocisgp.adtiming.com
+0.0.0.0 m.adtiming.com
+0.0.0.0 s.tpcserve.com
+0.0.0.0 cdntechone.com
+0.0.0.0 encurtador.dev
+0.0.0.0 pl23297551.highcpmgate.com
+0.0.0.0 unjustsubmerge.com
+0.0.0.0 x-id.ls.glanceapis.com
+0.0.0.0 r-id.ls.glanceapis.com
+0.0.0.0 v-id.ls.glanceapis.com
+0.0.0.0 r-in.ls.glanceapis.com
+0.0.0.0 rp.liadm.com
+0.0.0.0 i.liadm.com
+0.0.0.0 d-code.liadm.com
+0.0.0.0 upskittyan.com
+0.0.0.0 traid.jixie.io
+0.0.0.0 ahkoqzxuzsf.com
+0.0.0.0 clobberprocurertigwad.com
+0.0.0.0 divisiondrearilyunfield.com
+0.0.0.0 amxpceol.com
+0.0.0.0 www.amxpceol.com
+0.0.0.0 nrospyvilsko.com
+0.0.0.0 www.nrospyvilsko.com
+0.0.0.0 rfidpytri.com
+0.0.0.0 www.rfidpytri.com
+0.0.0.0 mc.yandex.ru
+0.0.0.0 gripping-hell.com
+0.0.0.0 l.sharethis.com
+0.0.0.0 count-server.sharethis.com
+0.0.0.0 seg.sharethis.com
+0.0.0.0 t.sharethis.com
+0.0.0.0 platform-api.sharethis.com
+0.0.0.0 w.sharethis.com
+0.0.0.0 ws.sharethis.com
+0.0.0.0 zimpolo.com
+0.0.0.0 xml.zeusadx.com
+0.0.0.0 xml.xmlwolf.com
+0.0.0.0 xml.popmonetizer.net
+0.0.0.0 xml.cachegorilla.com
+0.0.0.0 xml.acertb.com
+0.0.0.0 www.profitablecreativeformat.com
+0.0.0.0 www.mkeqmafk.com
+0.0.0.0 suspectplainrevulsion.com
+0.0.0.0 reshowsvole.shop
+0.0.0.0 mkeqmafk.com
+0.0.0.0 legitfizzed.shop
+0.0.0.0 isolatedovercomepasted.com
+0.0.0.0 divisiondrearilyunfiled.com
+0.0.0.0 cdn.storageimagedisplay.com
+0.0.0.0 dilowhang.com
+0.0.0.0 clobberprocurertightwad.com
+0.0.0.0 a.adforcast.com
+0.0.0.0 atrochaxctl.shop
+0.0.0.0 cdn.pncloudfl.com
+0.0.0.0 go.rmishe.com
+0.0.0.0 tsyndicate.com
+0.0.0.0 pxl.tsyndicate.com
+0.0.0.0 jcdn.tsyndicate.com
+0.0.0.0 cdn.tsyndicate.com
+0.0.0.0 go.hpyjmp.com
+0.0.0.0 a.adtng.com
+0.0.0.0 a.magsrv.com
+0.0.0.0 s.magsrv.com
+0.0.0.0 ht-cdn2.adtng.com
+0.0.0.0 hw-cdn2.adtng.com
+0.0.0.0 ads.adxadserv.com
+0.0.0.0 cdn.tapioni.com
+0.0.0.0 creative.rmishe.com
+0.0.0.0 help.fanza.cc
+0.0.0.0 r.trackwilltrk.com
+0.0.0.0 static.adxadserv.com
+0.0.0.0 storage.adxadtracker.com
+0.0.0.0 weegraphooph.net
+0.0.0.0 uciftoongardo.net
+0.0.0.0 tzegilo.com
+0.0.0.0 psoroumukr.com
+0.0.0.0 onmanectrictor.com
+0.0.0.0 naupsakiwhy.com
+0.0.0.0 my.rtmark.net
+0.0.0.0 media.dalysv.com
+0.0.0.0 jouwaikekaivep.net
+0.0.0.0 grardochuckimt.net
+0.0.0.0 fleraprt.com
+0.0.0.0 bw.abattuehagbuts.com
+0.0.0.0 zucoagorsout.com
+0.0.0.0 vzq.vyvjoevkeobz.top
+0.0.0.0 astonishlandmassnervy.com
+0.0.0.0 cdn.cloudfrale.com
+0.0.0.0 whouseem.com
+0.0.0.0 fractionfridgejudiciary.com
+0.0.0.0 ad.twinrdengine.com
+0.0.0.0 twinrdsyn.com
+0.0.0.0 ak.unblitzlean.com
+0.0.0.0 www.nuqabjsurhix.com
+0.0.0.0 nuqabjsurhix.com
+0.0.0.0 edfxarhjp.com
+0.0.0.0 woochithoothie.net
+0.0.0.0 oamoameevee.net
+0.0.0.0 dv.pictunoctette.com
+0.0.0.0 cdn.bncloudfl.com
+0.0.0.0 chaseherbalpasty.com
+0.0.0.0 creative.mnaspm.com
+0.0.0.0 go.mnaspm.com
+0.0.0.0 s.pemsrv.com
+0.0.0.0 a.pemsrv.com
+0.0.0.0 ukankingwithea.com
+0.0.0.0 adsco.re
+0.0.0.0 c.adsco.re
+0.0.0.0 ot.handgunoatbin.com
+0.0.0.0 pop.admpire.com
+0.0.0.0 www.xadsmart.com
+0.0.0.0 xadsmart.com
+0.0.0.0 xml.revrtb.net
+0.0.0.0 xml.xmlking.com
+0.0.0.0 diagramjawlineunhappy.com
+0.0.0.0 uymelsya.com
+0.0.0.0 a.bestcontentfood.top
+0.0.0.0 a.bestcontentprovider.top
+0.0.0.0 a.labadena.com
+0.0.0.0 api.bidmachine.io
+0.0.0.0 x.everestop.io
+0.0.0.0 x.blueduckredapple.com
+0.0.0.0 x.thecatmachine.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 odml.ad.intl.xiaomi.com
+0.0.0.0 s.orbsrv.com
+0.0.0.0 a.orbsrv.com
+0.0.0.0 go.xxxviijmp.com
+0.0.0.0 go.dmsik.com
+0.0.0.0 ads.trafficjunky.net
+0.0.0.0 static.trafficjunky.com
+0.0.0.0 ht-cdn2.trafficjunky.net
+0.0.0.0 pix-cdn77.trafficjunky.net
+0.0.0.0 atdqajwa.com
+0.0.0.0 www.atdqajwa.com
+0.0.0.0 lmwq.loeqrqbaezbr.top
+0.0.0.0 sync.teads.tv
+0.0.0.0 ib.adnxs.com
+0.0.0.0 dsum-sec.casalemedia.com
+0.0.0.0 xpiftyogk.com
+0.0.0.0 www.xpiftyogk.com
+0.0.0.0 vvzm.vklljvmqemlm.top
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 gum.criteo.com
+0.0.0.0 id.crwdcntrl.net
+0.0.0.0 match.adsrvr.org
+0.0.0.0 scripts.jixie.media
+0.0.0.0 traid.jixie.io
+0.0.0.0 id.crwdcntrl.net
+0.0.0.0 sw.wpushorg.com
+0.0.0.0 sw.cowtpvi.com
+0.0.0.0 notification.tubecup.net
+0.0.0.0 static.bookmsg.com
+0.0.0.0 nereserv.com
+0.0.0.0 storage.multstorage.com
+0.0.0.0 js.capndr.com
+0.0.0.0 js.wpshsdk.com
+0.0.0.0 fp.metricswpsh.com
+0.0.0.0 metricswpsh.com
+0.0.0.0 counter.yadro.ru
+0.0.0.0 9c5203d24f.bca10c62ca.com
+0.0.0.0 73085a36c1.0b6e17a630.com
+0.0.0.0 f74e368347.ec754d917d.com
+0.0.0.0 ads.betweendigital.com
+0.0.0.0 i.wmgtr.com
+0.0.0.0 s.uuidksinc.net
+0.0.0.0 tearoomzebus.top
+0.0.0.0 vy.hiphaltlauroyl.shop
+0.0.0.0 beaudesertlocksmiths.com
+0.0.0.0 amkowrtkipit.com
+0.0.0.0 farcivinage.shop
+0.0.0.0 deliriamorula.shop
+0.0.0.0 dikersballo.shop
+0.0.0.0 izleskulked.shop
+0.0.0.0 ak.argrowlitheor.com
+0.0.0.0 rs.prioraslop.com
+0.0.0.0 diingsinspiringtg.com
+0.0.0.0 dukerationpecial.com
+0.0.0.0 ep1.adtrafficquality.google
+0.0.0.0 ep2.adtrafficquality.google
+#0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 warypool.com
+0.0.0.0 xzx.jtiasfkkg.xyz
+0.0.0.0 go.ohmycams.com
+0.0.0.0 creative.ohmycams.com
+0.0.0.0 creative.zwhitelabel.com
+0.0.0.0 www.dimpled-frame.pro
+0.0.0.0 intelligenceadx.com
+0.0.0.0 www.intelligenceadx.com
+0.0.0.0 shocked-failure.com
+0.0.0.0 d80cb0f7b2.f404af467e.com
+0.0.0.0 fbc0a22821.e109412a60.com
+0.0.0.0 citadelpathstatue.com
+0.0.0.0 holahupa.com
+0.0.0.0 acceptable.a-ads.com
+0.0.0.0 capaciousdrewreligion.com
+0.0.0.0 displayvertising.com
+0.0.0.0 www.displayvertising.com
+0.0.0.0 nannyirrationalacquainted.com
+0.0.0.0 top-fwz1.mail.ru
+0.0.0.0 menacehabit.com
+0.0.0.0 recordedthereby.com
+0.0.0.0 sholraidsoalro.net
+0.0.0.0 static.a-ads.com
+0.0.0.0 unseenreport.com
+0.0.0.0 wearychallengeraise.com
+0.0.0.0 supportsentparticle.com
+0.0.0.0 quickerapparently.com
+0.0.0.0 gmjuycvxvdpes.xyz
+0.0.0.0 kewodruzeezu.xyz
+0.0.0.0 ad.mail.ru
+0.0.0.0 tns-counter.ru
+0.0.0.0 d3mzokty951c5w.cloudfront.net
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 googletagmanager.com
+#0.0.0.0 s10.histats.com
+#0.0.0.0 sstatic1.histats.com
+0.0.0.0 pebed.dm-event.net
+0.0.0.0 dmxleo.dailymotion.com
+0.0.0.0 cdn.viglink.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 a.pub.network
+0.0.0.0 tzezddxc.top
+0.0.0.0 affluentarmyequator.com
+0.0.0.0 boobausauhipsa.net
+0.0.0.0 sonar6.xy.fbcdn.net
+0.0.0.0 organicowner.com
+0.0.0.0 xubatxswa.com
+0.0.0.0 hfogzeaggalh.com
+0.0.0.0 mc.yandex.ru
+0.0.0.0 nunpceatffub.com
+0.0.0.0 ozvtuton.com
+0.0.0.0 dreamlikefostergala.com
+0.0.0.0 rtizudmih.com
+0.0.0.0 www.sibohqoc.com
+0.0.0.0 sibohqoc.com
+0.0.0.0 otvadvpas.com
+0.0.0.0 wijnavoqca.com
+0.0.0.0 cirliwrigwu.com
+0.0.0.0 dziamswamc.com
+#0.0.0.0 watchadsontape.com
+0.0.0.0 mysticechohaven.com
+0.0.0.0 wiwqhootrf.com
+0.0.0.0 abbokqvabomz.com
+0.0.0.0 wfujuclhat.com
+0.0.0.0 datrmuazno.com
+0.0.0.0 oqpgzeopstk.com
+0.0.0.0 worshippers.store
+0.0.0.0 api.pangledeveloper.com
+0.0.0.0 ps2.panglepublisher.com
+0.0.0.0 cl-data-id.ads.heytapmobi.com
+0.0.0.0 adx-id.ads.heytapmobile.com
+0.0.0.0 data-id-ads.realmemobile.com
+0.0.0.0 adx-id-ads.realmemobile.com
+0.0.0.0 totolink.com
+0.0.0.0 itotolink.net 
+0.0.0.0 www.totolink.com 
+0.0.0.0 cloud.totolink.com 
+0.0.0.0 firmware.totolink.com 
+0.0.0.0 download.totolink.com 
+0.0.0.0 totolink.net 
+0.0.0.0 www.totolink.net 
+0.0.0.0 cloud.totolink.net 
+0.0.0.0 firmware.totolink.net 
+0.0.0.0 download.totolink.net 
+0.0.0.0 api.totolink.com 
+0.0.0.0 api.totolink.net 
