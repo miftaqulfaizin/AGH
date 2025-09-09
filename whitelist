@@ -72,12 +72,12 @@
 @@||customerevents.netflix.com^
 @@||logs.netflix.com^
 @@||csi.gstatic.com^
-@@||pangle.io^
+@@||pangle.io^$denyallow=mediation.pangle.io|mediation-sg.pangle.io|mediation-sg2-log.pangle.io|api16-access-wf-sg.pangle.io|ssdk-sg.pangle.io
 @@||mon-boot.capcutapi.com^
 @@||ubt.tracking.shopee.co.id^
 @@||fonts.gstatic.com^$important
 @@||0.client-channel.google.com^$important # In order for users on your network to access Google Drive and Google Docs editors this domain must be whitelisted - https://support.google.com/a/answer/2589954?hl=e
-@@||1drv.com^$important # It is actually a legitimate Microsoft owned domain and used as a short link for OneDrive documents
+@@||1drv.com^$important # It is actually a legitimate Microsoft ow|ned domain and used as a short link for OneDrive documents
 @@||android.clients.google.com^$important # Google Play Store and few devices (especially Android One devices) depends on this domain for system updates
 @@||api.ipify.org^$important # It is used to get your public IP address programmatically. ipify is completely opensource
 @@||app-api.ted.com^$important # Used by ted.com streams
