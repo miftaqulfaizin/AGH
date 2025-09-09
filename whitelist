@@ -45,7 +45,7 @@
 @@||mon-va.tiktokv.com^
 @@||rtc-logger-va.tiktokv.com^
 @@||byteoversea.com^
-@@||isnssdk.com^
+@@||isnssdk.com^$denyallow=i.isnssdk.com|mon.isnssdk.com
 @@||sgsnssdk.com^
 @@||gvt2.com^
 @@||gvt3.com^
