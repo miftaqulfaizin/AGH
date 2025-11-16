@@ -11,6 +11,8 @@
 ||i*.market.xiaomi.com^
 ||store*.heytapdownload.com^
 ||heytapdownload.com^
+||appstore-download-*.heytapdl.com^
+||store-quic-*.heytapmobile.com^
 ||asia-file-appstore.vivoglobal.com^
 ||asia-file-appstoreawdl.vivoglobal.com^
 ||asai-file-apkcdn*.vivoglobal.com^
@@ -42,6 +44,8 @@
 ||slorpeyes.top^
 ||iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com^
 ||eakalra.ru^
+||*16da5c607ad.top^
+||agdosortione.com^
 0.0.0.0 1abcnews.xyz
 0.0.0.0 1awesome.net
 0.0.0.0 7standby.com
@@ -82,10 +86,36 @@
 # Malware/phising
 ||liadm.com^
 ||rezync.com^
+||www.tendawifi.com^
 ||xggd&f|x&gzo.itotolink.net^
 ||*.itotolink.net^
 ||*.totolink^
 ||*.lan^
+||totolinkc.com^
+||totolink.cn^
+||updatetoto.tw^
+||v4.ident.me^
+||update.carystudio.com^
+||esas.carystudio.com^
+||svr.d.carystudio.com^
+||v1035858.macloud.host^
+||update.peeplink.eu^
+||tiananmensquare1989.su^
+||al-array.com^
+||drvhelper.anondns.net^
+||techsupport.anondns.net^
+||rustbot.anondns.net^
+||miraisucks.anondns.net^
+||66.63.187.69^
+||approach.ilovegaysex.su
+||cdn2.duc3k.com^
+||admin.duc3k.com^
+||2.237.57.70^
+||cross-compiling.org^
+||i-kiss-boys.com^
+||furry-femboys.top^
+||twinkfinder.nl^
+||3gipcam.com^
 #||histats.com^
 0.0.0.0 ads.indosatooredoo.com
 0.0.0.0 ads.telkomsel.com
@@ -361,7 +391,7 @@
 0.0.0.0 totolink.net 
 0.0.0.0 www.totolink.net 
 0.0.0.0 cloud.totolink.net 
-0.0.0.0 firmware.totolink.net 
-0.0.0.0 download.totolink.net 
-0.0.0.0 api.totolink.com 
-0.0.0.0 api.totolink.net 
+0.0.0.0 firmware.totolink.net
+0.0.0.0 download.totolink.net
+0.0.0.0 api.totolink.com
+0.0.0.0 api.totolink.net
