@@ -1,0 +1,98 @@
+#ALLOW
+@@||httpdns-push.heytapmobile.com^
+@@||httpdns.push.oppomobile.com^
+@@||dns.apple.com^
+@@||apple-dns.net^
+@@||doh.dns.apple.com.v.aaplimg.com^
+@@||icloud.com^
+@@||apple-relay.fastly-edge.com^
+@@||dns.cloudflare.com^
+@@||cloudflare-dns.com^
+@@||dns.google^
+@@||dns.google.com^
+@@||dns.quad9.net^
+@@||dns11.quad9.net^
+@@||dns-nosec.quad9.net^
+@@||dns.opendns.com^
+@@||doh.opendns.com^
+@@||resolver1.opendns.com^
+@@||resolver2.opendns.com^
+@@||familyshield.opendns.com^
+@@||dns.adguard.com^
+@@||adguard-dns.com^
+@@||dns-family.adguard.com^
+@@||dns-unfiltered.adguard.com^
+@@||dns-tunnel-check.googlezip.net^
+@@||doubleclick.net^
+@@||googletagservices.com^
+@@||googleadservices.com^
+@@||googlesyndication.com^
+@@||google-analytics.com^
+@@||unity3d.com^
+@@||amazon-adsystem.com^
+@@||mobileanalytics.us-east-1.amazonaws.com^
+@@||tobapplog.tobsnssdk.com^
+@@||toblog.tobsnssdk.com^
+@@||sf16-static.i18n-pglstatp.com^
+@@||tiktokv.com^
+@@||ads.tiktok.com^
+@@||ads-api.tiktok.com^
+@@||ads-sg.tiktok.com^
+@@||tiktokpangle.us^
+@@||api16-access-ttp*.tiktokpangle-b.us^
+@@||lf-static.tiktokpangle-cdn-us.com^
+@@||business-api.tiktok.com^
+@@||analytics-sg.tiktok.com^
+@@||mcs-*.tiktok.com^
+@@||mon.tiktokv.com^
+@@||tiktokv.us^
+@@||log.tiktokv.com^
+@@||rtlog*.tiktokv.com^
+@@||mon-sg.tiktokv.com^
+@@||mon-va.tiktokv.com^
+@@||rtc-logger-va.tiktokv.com^
+@@||byteoversea.com^
+#@@||isnssdk.com^$denyallow=i.isnssdk.com|mon.isnssdk.com
+@@||isnssdk.com^
+@@||sgsnssdk.com^
+@@||gvt2.com^
+@@||gvt3.com^
+@@||dit.whatsapp.net^
+@@||analytics.tiktok.com^
+#Roblox
+#@@||*launches.appsflyersdk.com^$denyallow=u1gdzm-launches.appsflyersdk.com
+@@||*launches.appsflyersdk.com^
+@@||ecsv2.roblox.com^$important
+@@||metrics.roblox.com^$important
+@@||tracing.roblox.com^$important
+@@||roblox.com^
+#allow web
+@@||blogspot.com^$important
+@@||driverpack.io^
+@@||driverpacks.net^
+@@||drp.su^
+@@||drivergenius.net^
+@@||driverhive.com^
+@@||driverhub.com^
+@@||www.yasir252.com^
+@@||findmykids.org^
+@@||howdy.id^$important
+@@||pcapp.store^
+@@||customerevents.netflix.com^
+@@||logs.netflix.com^
+@@||csi.gstatic.com^
+#@@||pangle.io^$denyallow=mediation.pangle.io|mediation-sg.pangle.io|mediation-sg2-log.pangle.io|api16-access-wf-sg.pangle.io|ssdk-sg.pangle.io
+@@||pangle.io^
+@@||mon-boot.capcutapi.com^
+@@||ubt.tracking.shopee.co.id^
+@@||fonts.gstatic.com^$important
+@@||0.client-channel.google.com^$important # In order for users on your network to access Google Drive and Google Docs editors this domain must be whitelisted - https://support.google.com/a/answer/2589954?hl=e
+@@||1drv.com^$important # It is actually a legitimate Microsoft ow|ned domain and used as a short link for OneDrive documents
+@@||android.clients.google.com^$important # Google Play Store and few devices (especially Android One devices) depends on this domain for system updates
+@@||api.ipify.org^$important # It is used to get your public IP address programmatically. ipify is completely opensource
+@@||app-api.ted.com^$important # Used by ted.com streams
+@@||api.rlje.net^$important # Used to deliver contents on video straming apps on hulu etc
+@@||appleid.apple.com^$important # Used to sign in t your Apple account
+@@||apps.skype.com^$important # Used to make group calls, group chats etc. on Skype
+@@||appsbackup-pa.clients6.google.com^$important # Used to backup device settings and app data
+@@||appsbackup-pa.googleapis.com^$important # Used to backup device settings and app data
