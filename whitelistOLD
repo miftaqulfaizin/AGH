@@ -4,7 +4,7 @@
 @@||dns.apple.com^
 @@||apple-dns.net^
 @@||doh.dns.apple.com.v.aaplimg.com^
-@@||icloud.com^
+@@||icloud.com^$denyallow=metrics.icloud.com
 @@||apple-relay.fastly-edge.com^
 @@||dns.cloudflare.com^
 @@||cloudflare-dns.com^
@@ -25,10 +25,15 @@
 @@||dns-tunnel-check.googlezip.net^
 @@||doubleclick.net^
 @@||googletagservices.com^
-@@||googleadservices.com^
-@@||googlesyndication.com^
-@@||google-analytics.com^
-@@||unity3d.com^
+@@||googleadservices.com^$denyallow=pagead2.googleadservices.com
+@@||googlesyndication.com^$denyallow=pagead2.googlesyndication.com
+@@||google-analytics.com^$denyallow=google-analytics.com|ssl.google-analytics.com
+@@||click.googleanalytics.com^
+@@||static.media.net^
+@@||media.net^
+@@||app.getsentry.com^
+@@||ads-api.twitter.com^
+@@||unity3d.com^$denyallow=auction.unityads.unity3d.com|webview.unityads.unity3d.com|config.unityads.unity3d.com|adserver.unityads.unity3d.com
 @@||amazon-adsystem.com^
 @@||mobileanalytics.us-east-1.amazonaws.com^
 @@||tobapplog.tobsnssdk.com^
@@ -51,7 +56,7 @@
 @@||mon-sg.tiktokv.com^
 @@||mon-va.tiktokv.com^
 @@||rtc-logger-va.tiktokv.com^
-@@||byteoversea.com^
+@@||byteoversea.com^$denyallow=log.byteoversea.com
 #@@||isnssdk.com^$denyallow=i.isnssdk.com|mon.isnssdk.com
 @@||isnssdk.com^
 @@||sgsnssdk.com^
