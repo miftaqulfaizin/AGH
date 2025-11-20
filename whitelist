@@ -4,7 +4,7 @@
 @@||dns.apple.com^
 @@||apple-dns.net^
 @@||doh.dns.apple.com.v.aaplimg.com^
-@@||icloud.com^
+@@||icloud.com^$denyallow=metrics.icloud.com
 @@||apple-relay.fastly-edge.com^
 @@||dns.cloudflare.com^
 @@||cloudflare-dns.com^
