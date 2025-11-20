@@ -28,7 +28,7 @@
 @@||googleadservices.com^$denyallow=pagead2.googleadservices.com
 @@||googlesyndication.com^$denyallow=pagead2.googlesyndication.com
 @@||google-analytics.com^
-@@||unity3d.com^
+@@||unity3d.com^$denyallow=auction.unityads.unity3d.com|webview.unityads.unity3d.com|config.unityads.unity3d.com|adserver.unityads.unity3d.com
 @@||amazon-adsystem.com^
 @@||mobileanalytics.us-east-1.amazonaws.com^
 @@||tobapplog.tobsnssdk.com^
@@ -81,6 +81,7 @@
 @@||customerevents.netflix.com^
 @@||logs.netflix.com^
 @@||csi.gstatic.com^
+@@||media.net^$denyallow=
 @@||pangle.io^$denyallow=mediation-sg2-log.pangle.io|ether-pack-sg.pangle.io|ssdk-sg.pangle.io
 #@@||pangle.io^$denyallow=mediation.pangle.io|mediation-sg.pangle.io|mediation-sg2-log.pangle.io|api16-access-wf-sg.pangle.io|ssdk-sg.pangle.io
 #@@||pangle.io^
