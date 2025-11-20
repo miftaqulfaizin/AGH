@@ -23,10 +23,10 @@
 @@||dns-family.adguard.com^
 @@||dns-unfiltered.adguard.com^
 @@||dns-tunnel-check.googlezip.net^
-@@||doubleclick.net^
+@@||doubleclick.net^$denyallow=googleads.g.doubleclick.net
 @@||googletagservices.com^
-@@||googleadservices.com^
-@@||googlesyndication.com^
+@@||googleadservices.com^$denyallow=pagead2.googleadservices.com
+@@||googlesyndication.com^$denyallow=pagead2.googlesyndication.com
 @@||google-analytics.com^
 @@||unity3d.com^
 @@||amazon-adsystem.com^
