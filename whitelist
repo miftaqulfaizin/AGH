@@ -27,7 +27,7 @@
 @@||googletagservices.com^
 @@||googleadservices.com^$denyallow=pagead2.googleadservices.com
 @@||googlesyndication.com^$denyallow=pagead2.googlesyndication.com
-@@||google-analytics.com^$denyallow=ssl.google-analytics.com|google-analytics.com
+@@||.google-analytics.com^$denyallow=ssl.google-analytics.com|google-analytics.com
 @@||unity3d.com^$denyallow=auction.unityads.unity3d.com|webview.unityads.unity3d.com|config.unityads.unity3d.com|adserver.unityads.unity3d.com
 @@||amazon-adsystem.com^
 @@||mobileanalytics.us-east-1.amazonaws.com^
