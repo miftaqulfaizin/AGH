@@ -81,7 +81,7 @@
 @@||customerevents.netflix.com^
 @@||logs.netflix.com^
 @@||csi.gstatic.com^
-@@||pangle.io^$denyallow=mediation-sg2-log.pangle.io|ether-pack-sg.pangle.io|ssdk-sg.pangle.io|api16-access-wf-sg.pangle.io
+@@||pangle.io^$denyallow=mediation-sg2-log.pangle.io|ether-pack-sg.pangle.io|ssdk-sg.pangle.io|api16-access-wf-sg.pangle.io|mediation.pangle.io
 #@@||pangle.io^$denyallow=mediation.pangle.io|mediation-sg.pangle.io|mediation-sg2-log.pangle.io|api16-access-wf-sg.pangle.io|ssdk-sg.pangle.io
 #@@||pangle.io^
 @@||mon-boot.capcutapi.com^
