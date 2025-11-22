@@ -26,7 +26,7 @@
 @@||doubleclick.net^$denyallow=stats.g.doubleclick.net|ad.doubleclick.net|static.doubleclick.net|m.doubleclick.net|mediavisor.doubleclick.net
 @@||googletagservices.com^
 @@||googleadservices.com^$denyallow=pagead2.googleadservices.com
-@@||googlesyndication.com^$denyallow=pagead2.googlesyndication.com
+@@||googlesyndication.com^
 @@||google-analytics.com^
 @@||unity3d.com^
 @@||amazon-adsystem.com^
