@@ -25,7 +25,7 @@
 @@||dns-tunnel-check.googlezip.net^
 @@||doubleclick.net^$denyallow=stats.g.doubleclick.net|ad.doubleclick.net|static.doubleclick.net|m.doubleclick.net|mediavisor.doubleclick.net
 @@||googletagservices.com^
-@@||googleadservices.com^$denyallow=pagead2.googleadservices.com
+@@||googleadservices.com^
 @@||googlesyndication.com^
 @@||google-analytics.com^
 @@||unity3d.com^
