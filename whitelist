@@ -23,7 +23,6 @@
 @@||dns-family.adguard.com^
 @@||dns-unfiltered.adguard.com^
 @@||dns-tunnel-check.googlezip.net^
-#@@||doubleclick.net^$denyallow=stats.g.doubleclick.net|ad.doubleclick.net|static.doubleclick.net|m.doubleclick.net|mediavisor.doubleclick.net
 @@||doubleclick.net^
 @@||googletagservices.com^
 @@||googleadservices.com^
@@ -53,7 +52,6 @@
 @@||mon-va.tiktokv.com^
 @@||rtc-logger-va.tiktokv.com^
 @@||byteoversea.com^
-#@@||isnssdk.com^$denyallow=i.isnssdk.com|mon.isnssdk.com
 @@||isnssdk.com^
 @@||sgsnssdk.com^
 @@||gvt2.com^
@@ -82,7 +80,6 @@
 @@||customerevents.netflix.com^
 @@||logs.netflix.com^
 @@||csi.gstatic.com^
-#@@||pangle.io^$denyallow=mediation-sg2-log.pangle.io|ether-pack-sg.pangle.io|ssdk-sg.pangle.io|api16-access-wf-sg.pangle.io|mediation.pangle.io
 @@||pangle.io^
 @@||mon-boot.capcutapi.com^
 @@||ubt.tracking.shopee.co.id^
