@@ -20,6 +20,15 @@
 ||cdn-ps.palmplaystore.com^
 ||cdn-client-diff.palmplaystore.com^
 ||download-api.palmplaystore.com^
+||vas.samsungapps.com^
+||cn-*.samsungapps.com^
+||aka-dn.gw.samsungapps.com^
+||aka-*.gw.samsungapps.com^
+||cf-*.gw.samsungapps.com^
+||cdnet-*.gw.samsungapps.com^
+||*-odc.samsungapps.com^
+||apps-*.ospserver.net^
+||samsappsbn.vo.llnwd.net^
 #Mobile sysupdate
 ||asia-sysupawdl.vivoglobal.com^
 ||asia-sysupgrade-api.vivoglobal.com^
@@ -308,7 +317,7 @@
 0.0.0.0 dukerationpecial.com
 0.0.0.0 ep1.adtrafficquality.google
 0.0.0.0 ep2.adtrafficquality.google
-#0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 warypool.com
 0.0.0.0 xzx.jtiasfkkg.xyz
 0.0.0.0 go.ohmycams.com
