@@ -51,7 +51,7 @@
 @@||mon-sg.tiktokv.com^
 @@||mon-va.tiktokv.com^
 @@||rtc-logger-va.tiktokv.com^
-@@||byteoversea.com^
+@@||byteoversea.com^$denyallow=v16-ad.byteoversea.com
 @@||isnssdk.com^
 @@||sgsnssdk.com^
 @@||gvt2.com^
