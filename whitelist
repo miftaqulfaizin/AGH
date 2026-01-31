@@ -1,12 +1,13 @@
 #ALLOW
 @@||ads3.fingersoft.net^
-@@||httpdns-push.heytapmobile.com^
-@@||httpdns.push.oppomobile.com^
+#@@||httpdns-push.heytapmobile.com^
+#@@||httpdns.push.oppomobile.com^
 #@@||dns.apple.com^
 #@@||apple-dns.net^
 #@@||doh.dns.apple.com.v.aaplimg.com^
 @@||icloud.com^
 @@||apple-relay.fastly-edge.com^
+@@||one.one.one.one^
 @@||dns.cloudflare.com^
 @@||cloudflare-dns.com^
 @@||dns.google^
