@@ -2,8 +2,8 @@
 @@||ads3.fingersoft.net^
 @@||httpdns-push.heytapmobile.com^
 @@||httpdns.push.oppomobile.com^
-@@||dns.apple.com^
-@@||apple-dns.net^
+#@@||dns.apple.com^
+#@@||apple-dns.net^
 @@||doh.dns.apple.com.v.aaplimg.com^
 @@||icloud.com^
 @@||apple-relay.fastly-edge.com^
@@ -23,7 +23,7 @@
 @@||adguard-dns.com^
 @@||dns-family.adguard.com^
 @@||dns-unfiltered.adguard.com^
-@@||dns-tunnel-check.googlezip.net^
+#@@||dns-tunnel-check.googlezip.net^
 @@||doubleclick.net^
 @@||googletagservices.com^
 @@||googleadservices.com^
