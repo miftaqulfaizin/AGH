@@ -1540,5 +1540,5 @@
 @@||ws.dnscheck.tools^
 @@||www.gofile.i^
 @@||www.kmg.my.i^
-@@||.ac.id^
-@@||.go.id^
+@@||*.ac.id^
+@@||*.go.id^
