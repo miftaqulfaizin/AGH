@@ -346,7 +346,7 @@
 @@||geolocation-db.com^
 @@||geolocation.garmin.com^
 @@||gha.ebay.com^
-@@||github.com^
+@@||github.com^$denyallow=collector.github.com
 @@||go-jek.com^
 @@||go.influencerlogic.com^
 @@||go.microsoft.com^
@@ -1150,7 +1150,6 @@
 @@||geolocation-db.com^
 @@||geolocation.garmin.com^
 @@||gha.ebay.com^
-@@||github.com^
 @@||go-jek.com^
 @@||go.influencerlogic.com^
 @@||go.microsoft.com^
