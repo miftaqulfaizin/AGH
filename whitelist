@@ -27,7 +27,7 @@
 @@||dns-family.adguard.com^
 @@||dns-unfiltered.adguard.com^
 #@@||dns-tunnel-check.googlezip.net^
-@@||doubleclick.net^
+@@||doubleclick.net^$denyallow=googleads.g.doubleclick.net
 @@||googletagservices.com^
 @@||googleadservices.com^
 @@||googlesyndication.com^
@@ -1666,7 +1666,7 @@
 @@||gamespromotion.samsungcloudsolution.com^
 @@||gld.push.samsungosp.com^
 @@||gld.samsungosp.com^
-@@||googleads.g.doubleclick.net^
+##@@||googleads.g.doubleclick.net^
 @@||gpu.samsungelectronics.com^
 @@||hole.cert.pl^
 @@||homeprv.lgtvcommon.com^
