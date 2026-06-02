@@ -32,8 +32,8 @@
 @@||googleadservices.com^
 @@||googlesyndication.com^
 @@||google-analytics.com^
-@@||unity3d.com^
-@@||amazon-adsystem.com^
+@@||unity3d.com^$denyallow=mediation.unity3d.com|isx.unity3d.com
+@@||amazon-adsystem.com^$denyallow=ads.aps.amazon-adsystem.com
 @@||mobileanalytics.us-east-1.amazonaws.com^
 @@||tobapplog.tobsnssdk.com^
 @@||toblog.tobsnssdk.com^
