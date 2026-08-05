@@ -32,9 +32,9 @@
 @@||googleadservices.com^
 @@||googlesyndication.com^
 @@||google-analytics.com^
-@@||unity3d.com
+#@@||unity3d.com
 #@@||unity3d.com^$denyallow=cdn-store-icons-akamai-prd.unityads.unity3d.com|events.mz.unity3d.com
-#@@||unity3d.com^$denyallow=mediation.unity3d.com|isx.unity3d.com
+@@||unity3d.com^$denyallow=mediation.unity3d.com|isx.unity3d.com|gateway.unityads.unity3d.com
 #@@||amazon-adsystem.com
 @@||amazon-adsystem.com^$denyallow=ads.aps.amazon-adsystem.com
 @@||mobileanalytics.us-east-1.amazonaws.com^
