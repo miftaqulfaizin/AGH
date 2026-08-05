@@ -27,7 +27,7 @@
 @@||dns-family.adguard.com^
 @@||dns-unfiltered.adguard.com^
 #@@||dns-tunnel-check.googlezip.net^
-@@||doubleclick.net^$denyallow=googleads.g.doubleclick.net
+@@||doubleclick.net^$denyallow=googleads.g.doubleclick.net|pubads.g.doubleclick.net
 @@||googletagservices.com^
 @@||googleadservices.com^
 @@||googlesyndication.com^
@@ -72,7 +72,7 @@
 @@||dit.whatsapp.net^
 @@||analytics.tiktok.com^
 #Roblox
-#@@||*launches.appsflyersdk.com^$denyallow=u1gdzm-launches.appsflyersdk.com
+#@@||*launches.appsflyersdk.com^$denyallow=u1gdzm-launches.appsflyersdk.com|jv9b33.launches.appsflyersdk.com
 @@||*launches.appsflyersdk.com^
 @@||ecsv2.roblox.com^$important
 @@||metrics.roblox.com^$important
