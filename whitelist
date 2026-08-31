@@ -64,7 +64,8 @@
 @@||mon-sg.tiktokv.com^
 @@||mon-va.tiktokv.com^
 @@||rtc-logger-va.tiktokv.com^
-@@||byteoversea.com^$denyallow=v16-ad.byteoversea.com|p16-ad.byteoversea.com|gpm-mon-sg.byteoversea.com|mon-va.byteoversea.com|maliva-mcs.byteoversea.com|sgali-mcs.byteoversea.com|mssdk-sg.byteoversea.com|gplog-sg.byteoversea.com|gpm-mon-va.byteoversea.com|mssdk-va.byteoversea.com|mon.byteoversea.com|rtlog.byteoversea.com|tnc16-*.byteoversea.com|xlog.byteoversea.com|ug-sg.byteoversea.com|log*.byteoversea.com
+@@||byteoversea.com^
+#@@||byteoversea.com^$denyallow=v16-ad.byteoversea.com|p16-ad.byteoversea.com|gpm-mon-sg.byteoversea.com|mon-va.byteoversea.com|maliva-mcs.byteoversea.com|sgali-mcs.byteoversea.com|mssdk-sg.byteoversea.com|gplog-sg.byteoversea.com|gpm-mon-va.byteoversea.com|mssdk-va.byteoversea.com|mon.byteoversea.com|rtlog.byteoversea.com|tnc16-*.byteoversea.com|xlog.byteoversea.com|ug-sg.byteoversea.com|log*.byteoversea.com
 ##@@||isnssdk.com^
 ##@@||sgsnssdk.com^
 @@||gvt2.com^
