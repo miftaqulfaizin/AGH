@@ -35,6 +35,7 @@
 @@||doubleclick.net^$denyallow=googleads.g.doubleclick.net|pubads.g.doubleclick.net|securepubads.g.doubleclick.net|fls.doubleclick.net
 @@||googletagservices.com^
 @@||googleadservices.com^$denyallow=pagead*.googleadservices.com
+@@||pagead2.googlesyndication.com^
 @@||googlesyndication.com^$denyallow=pagead.googlesyndication.com|afs.googlesyndication.com|tpc.googlesyndication.com|pagead*.googlesyndication.com
 @@||google-analytics.com^
 #@@||unity3d.com
