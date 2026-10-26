@@ -28,6 +28,7 @@
 @@||dns-family.adguard.com^
 @@||dns-unfiltered.adguard.com^
 #@@||dns-tunnel-check.googlezip.net^
+@@||adclick.g.doubleclick.net^
 @@||ad.doubleclick.net^
 @@||doubleclick.net^$denyallow=googleads.g.doubleclick.net|googleads*.g.doubleclick.net|pubads.g.doubleclick.net|securepubads.g.doubleclick.net|m.doubleclick.net|static.doubleclick.net|stats.g.doubleclick.net|cm.g.doubleclick.net|fls.doubleclick.net|*.fls.doubleclick.net
 @@||googletagservices.com^
