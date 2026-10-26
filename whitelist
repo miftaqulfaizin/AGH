@@ -32,10 +32,10 @@
 @@||ad.doubleclick.net^
 @@||www3.doubleclick.net^
 @@||www.doubleclick.net^
-@@||doubleclick.net^$denyallow=googleads.g.doubleclick.net|pubads.g.doubleclick.net|fls.doubleclick.net
+@@||doubleclick.net^$denyallow=googleads.g.doubleclick.net|pubads.g.doubleclick.net|securepubads.g.doubleclick.net|fls.doubleclick.net
 @@||googletagservices.com^
 @@||googleadservices.com^$denyallow=pagead*.googleadservices.com
-@@||googlesyndication.com^$denyallow=pagead.googlesyndication.com|afs.googlesyndication.com|tpc.googlesyndication.com
+@@||googlesyndication.com^$denyallow=pagead.googlesyndication.com|afs.googlesyndication.com|tpc.googlesyndication.com|pagead*.googlesyndication.com
 @@||google-analytics.com^
 #@@||unity3d.com
 #@@||unity3d.com^$denyallow=cdn-store-icons-akamai-prd.unityads.unity3d.com|events.mz.unity3d.com
