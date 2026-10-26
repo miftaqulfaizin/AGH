@@ -30,9 +30,11 @@
 #@@||dns-tunnel-check.googlezip.net^
 @@||adclick.g.doubleclick.net^
 @@||ad.doubleclick.net^
+@@||www3.doubleclick.net^
+@@||www.doubleclick.net^
 @@||doubleclick.net^$denyallow=googleads.g.doubleclick.net|googleads*.g.doubleclick.net|pubads.g.doubleclick.net|securepubads.g.doubleclick.net|m.doubleclick.net|static.doubleclick.net|stats.g.doubleclick.net|cm.g.doubleclick.net|fls.doubleclick.net|*.fls.doubleclick.net
 @@||googletagservices.com^
-@@||googleadservices.com^
+@@||googleadservices.com^$denyallow=pagead*.googleadservices.com
 @@||googlesyndication.com^$denyallow=pagead.googlesyndication.com|pagead*.googlesyndication.com|afs.googlesyndication.com|tpc.googlesyndication.com
 @@||google-analytics.com^
 #@@||unity3d.com
